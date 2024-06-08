@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1001,
+    "name": "Action",
+    "title": "War",
+    "year": 2019,
+    "description": "An action-packed thriller with a tense battle between two spies, combining wits and strength in high-stakes encounters.",
+    "category": "free",
+    "image": "https://i.postimg.cc/Jn3jKK2y/mov1.jpg"
+  },
+  {
+    "id": 1002,
+    "name": "Comedy",
+    "title": "3 Idiots",
+    "year": 2009,
+    "description": "A heartwarming comedy exploring the lives of three friends as they navigate the pressures of engineering college life.",
+    "category": "free",
+    "image": "https://i.postimg.cc/ZYcrd7N2/mov2.jpg"
+  },
+  {
+    "id": 1003,
+    "name": "Drama",
+    "title": "Gully Boy",
+    "year": 2019,
+    "description": "A young street rapper from Mumbai dreams of making it big, navigating his way through challenges and aspirations.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/d34rc3vw/mov3.jpg"
+  },
+  {
+    "id": 1004,
+    "name": "Horror",
+    "title": "Bhul Bhulaiya",
+    "year": 2007,
+    "description": "A psychologist delves into a haunted palace's mystery, confronting a female spirit in this thrilling horror-comedy.",
+    "category": "free",
+    "image": "https://i.postimg.cc/3Jx2CXCR/mov4.jpg"
+  },
+  {
+    "id": 1005,
+    "name": "Animation",
+    "title": "Hanuman",
+    "year": 2005,
+    "description": "Join Hanuman on a heroic adventure as he rescues Princess Sita in this captivating animated epic tale.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/L5HLWfcx/mov5.jpg"
+  },
+  {
+    "id": 1006,
+    "name": "Romance",
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "description": "A timeless romance where love transcends cultural barriers, bringing together hearts in a classic tale of passion.",
+    "category": "free",
+    "image": "https://i.postimg.cc/qvtnWpFH/mov6.jpg"
+  },
+  {
+    "id": 1007,
+    "name": "Thriller",
+    "title": "Andhadhun",
+    "year": 2018,
+    "description": "A blind pianist becomes entangled in a gripping murder mystery, navigating danger and deception in a thrilling narrative.",
+    "category": "free",
+    "image": "https://i.postimg.cc/bNVk6Z3R/mov7.jpg"
+  },
+  {
+    "id": 1008,
+    "name": "Fantasy",
+    "title": "Baahubali: The Beginning",
+    "year": 2015,
+    "description": "An epic fantasy saga of power, betrayal, and valor unfolds in an ancient kingdom with majestic storytelling.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/GmZYCZ08/mov8.jpg"
+  },
+  {
+    "id": 1009,
+    "name": "Documentary",
+    "title": "Sachin: A Billion Dreams",
+    "year": 2017,
+    "description": "Experience Sachin Tendulkar's iconic journey through this cinematic tribute, capturing the spirit of cricket's living legend.",
+    "category": "free",
+    "image": "https://i.postimg.cc/tgW6C2yr/mov9.jpg"
+  },
+  {
+    "id": 1010,
+    "name": "Romance",
+    "title": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
+    "description": "A group of friends embarks on a memorable trek, friendship, and self-discovery along their adventurous journey.",
+    "category": "free",
+    "image": "https://i.postimg.cc/hPxBn47r/mov10.jpg"
+  },
+  {
+    "id": 1011,
+    "name": "Biography",
+    "title": "Bhaag Milkha Bhaag",
+    "year": 2013,
+    "description": "The inspirational journey of Indian athlete Milkha Singh, from struggle to triumph, is vividly portrayed in this biographical film.",
+    "category": "free",
+    "image": "https://i.postimg.cc/Z5Sh5k8h/mov11.jpg"
+  },
+  {
+    "id": 1012,
+    "name": "Musical",
+    "title": "Rockstar",
+    "year": 2011,
+    "description": "A young musician's journey through fame, love, and self-discovery in the Indian music industry forms this musical drama.",
+    "category": "free",
+    "image": "https://i.postimg.cc/cLBGKDht/mov12.jpg"
+  },
+  {
+    "id": 1013,
+    "name": "Adventure",
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "description": "Three friends embark on a road trip across Spain, rediscovering life, friendship, and their deepest desires in this exhilarating adventure.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/85bPSwnb/mov13.jpg"
+  },
+  {
+    "id": 1014,
+    "name": "Crime",
+    "title": "Gangs of Wasseypur",
+    "year": 2012,
+    "description": "A gripping saga of power, revenge, and family legacy in the coal mafia of Wasseypur, spanning generations of conflict and ambition.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/1RJ57CFm/mov14.jpg"
+  },
+  {
+    "id": 1015,
+    "name": "Science Fiction",
+    "title": "Krrish 3",
+    "year": 2013,
+    "description": "A superhero battles against an evil genius who creates a powerful army of mutants in this high-octane sci-fi adventure.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/2y8j8vsN/mov15.jpg"
+  },
+  {
+    "id": 1016,
+    "name": "Mystery",
+    "title": "Kahaani",
+    "year": 2012,
+    "description": "A pregnant woman's search for her missing husband leads her through a labyrinth of secrets and deceit in the heart of Kolkata.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/MHP6cHwM/mov16.jpg"
+  },
+  {
+    "id": 1017,
+    "name": "Historical",
+    "title": "Jodhaa Akbar",
+    "year": 2008,
+    "description": "An epic romance between Emperor Akbar and Rajput princess Jodhaa, showcasing their enduring love amidst political and cultural challenges.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/SNRQB6LW/mov17.jpg"
+  },
+  {
+    "id": 1018,
+    "name": "Romantic Comedy",
+    "title": "Jab We Met",
+    "year": 2007,
+    "description": "A heartwarming journey of self-discovery and romance unfolds when a businessman meets a free-spirited woman on a train journey.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/bN5YpZL4/mov18.jpg"
+  },
+  {
+    "id": 1019,
+    "name": "Romantic Comedy",
+    "title": "Ajab Prem Ki Ghazab Kahani",
+    "year": 2009,
+    "description": "A hilarious romantic comedy about a lovable yet clumsy young man who goes to great lengths to win the heart of the woman he loves.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/Bn1S6JVb/mov19.jpg"
+  },
+  {
+    "id": 1020,
+    "name": "Fantasy",
+    "title": "PK",
+    "year": 2014,
+    "description": "An alien stranded on Earth explores human society with innocence and wit, questioning religious dogma and societal norms in a comedic narrative.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/cJystPpm/mov20.jpg"
+  },
+  {
+    "id": 1021,
+    "name": "Drama",
+    "title": "Barfi!",
+    "year": 2012,
+    "description": "A charming and mischievous deaf-mute man navigates love and friendship with two women, defying societal expectations and embracing life's joys.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/1zGyGJPZ/mov21.jpg"
+  },
+  {
+    "id": 1022,
+    "name": "Sports",
+    "title": "Chak De! India",
+    "year": 2007,
+    "description": "An exiled hockey player returns as a coach to lead the Indian women's team to victory, overcoming societal prejudice and personal demons.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/MTzqdVKf/mov22.jpg"
+  },
+  {
+    "id": 1023,
+    "name": "War",
+    "title": "Uri: The Surgical Strike",
+    "year": 2019,
+    "description": "Based on true events, this film follows the Indian Army's covert operation to avenge a deadly terrorist attack on a military base.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/d1nvX3LH/mov23.jpg"
+  },
+  {
+    "id": 1024,
+    "name": "Thriller",
+    "title": "Genius",
+    "year": 2018,
+    "description": "An intelligence officer uses his wit and resources to battle a catastrophic terrorist attack, unraveling a sinister conspiracy.",
+    "category": "paid",
+    "image": "https://i.postimg.cc/d31vKFCq/mov24.jpg"
+  }
+]
