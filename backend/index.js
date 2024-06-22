@@ -21,7 +21,7 @@ try {
 		useNewUrlParser: true,
 		useUnifiedTopology: true,
 	});
-	console.log("Connected to mongoDB");
+	console.log(`Connected to mongoDB ${mongoose.connection.host}`);
 } catch (error) {
 	console.log("Error Aala: ", error);
 }
